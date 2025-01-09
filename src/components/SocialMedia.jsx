@@ -14,11 +14,6 @@ export const SocialMediaProfiles = [
     href: "https://www.youtube.com/@XetaWise",
     icon: BsYoutube,
   },
-  { title: "GitHub", 
-    href: "https://github.com/xetawise", 
-     icon: BsGithub 
-     },
-
   {
     title: "linkedin",
     href: "https://www.linkedin.com/company/xetawise/",
