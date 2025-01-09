@@ -4,6 +4,7 @@ import FadeIn, { FadeInStagger } from "./FadeIn";
 export function StatList({ children, ...props }) {
   return (
     <FadeInStagger {...props}>
+            <h2 className="text-gray-300">Our Next Target</h2>
       <dl className="grid grid-cols-1 gap-10 sm:grid-cols-2 lg:auto-cols-fr lg:grid-flow-col lg:grid-cols-none">
         {children}
       </dl>

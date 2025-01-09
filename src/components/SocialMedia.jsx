@@ -11,23 +11,22 @@ import {
 export const SocialMediaProfiles = [
   {
     title: "Youtube",
-    href: "https://www.youtube.com/watch?v=eAswnbWptBM",
+    href: "https://www.youtube.com/@XetaWise",
     icon: BsYoutube,
   },
-  { title: "GitHub", href: "https://github.com/chrhi", icon: BsGithub },
-  {
-    title: "Facebook",
-    href: "https://www.facebook.com/profile.php?id=100010070348939",
-    icon: BsFacebook,
-  },
+  { title: "GitHub", 
+    href: "https://github.com/xetawise", 
+     icon: BsGithub 
+     },
+
   {
     title: "linkedin",
-    href: "https://www.linkedin.com/in/chehri-abdellah-4a8858267/",
+    href: "https://www.linkedin.com/company/xetawise/",
     icon: BsLinkedin,
   },
   {
     title: "Twitter",
-    href: "https://twitter.com/KING_IN_JUNGLE",
+    href: "https://x.com/xetawise",
     icon: BsTwitter,
   },
 ];
