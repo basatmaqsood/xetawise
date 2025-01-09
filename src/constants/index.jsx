@@ -4,9 +4,9 @@ export const navigation = [
   {
     title: "Work",
     links: [
-      { title: "AH MANA3RAF", href: "/work/amazonclone" },
-      { title: "AH MANA3RAF", href: "/work/bazar" },
-      { title: "AH MANA3RAF", href: "/work/blog101" },
+      { title: "Swiift: South African Ride Sharing Platform", href: "https://swiift-basat.vercel.app/" },
+      { title: "Wild and Free: Explore Events in Bali, Indonesia", href: "https://www.wildandfree.us/" },
+      { title: "SnapGram: The NextGen Social Media Platform", href: "https://react-social-mediaapp.vercel.app/sign-in" },
       {
         title: (
           <>

@@ -13,7 +13,7 @@ const FooterNavigation = () => {
             <ul role="list" className="mt-4 text-sm text-neutral-700">
               {item.links.map((link) => (
                 <li key={link.title} className="mt-4">
-                  <Link
+                  <Link target="_blank"
                     href={link.href}
                     className="transition hover:text-neutral-950"
                   >
