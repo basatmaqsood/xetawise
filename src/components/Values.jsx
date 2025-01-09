@@ -18,38 +18,41 @@ const Values = () => {
         title="Balancing reliability and innovation"
       >
         <p>
-          We strive to stay at the forefront of emerging trends and
-          technologies, while completely ignoring them and forking that old
-          Rails project we feel comfortable using. We stand by our core values
-          to justify that decision.
+          We are committed to staying ahead of industry trends and embracing
+          innovative technologies, while ensuring the stability and reliability
+          of our solutions. Our core values guide every project we undertake and
+          are central to our approach.
         </p>
       </SectionIntro>
       <Container className="mt-24">
         <GridList>
           <GridListItem title="Meticulous">
-            The first part of any partnership is getting our designer to put
-            your logo in our template. The second step is getting them to do the
-            colors.
+            We take great pride in the details, ensuring that every element of
+            your project reflects quality and precision from design to execution.
           </GridListItem>
           <GridListItem title="Efficient">
-            We pride ourselves on never missing a deadline which is easy because
-            most of the work was done years ago.
+            We deliver high-quality results on time by leveraging our experience
+            and expertise, ensuring that every project is streamlined and effective.
           </GridListItem>
           <GridListItem title="Adaptable">
-            Every business has unique needs and our greatest challenge is
-            shoe-horning those needs into something we already built.
+            We understand that each business has unique needs, and we work
+            flexibly to tailor our solutions to meet those needs while maintaining
+            the integrity of the project.
           </GridListItem>
           <GridListItem title="Honest">
-            We are transparent about all of our processes, banking on the simple
-            fact our clients never actually read anything.
+            Transparency is key to us. We are open and clear about our processes,
+            keeping you informed at every step to ensure a smooth and successful
+            collaboration.
           </GridListItem>
           <GridListItem title="Loyal">
-            We foster long-term relationships with our clients that go beyond
-            just delivering a product, allowing us to invoice them for decades.
+            We value long-term relationships with our clients and are committed
+            to providing ongoing support and delivering value well beyond project
+            completion.
           </GridListItem>
           <GridListItem title="Innovative">
-            The technological landscape is always evolving and so are we. We are
-            constantly on the lookout for new open source projects to clone.
+            We are always exploring new opportunities to innovate and enhance
+            our solutions, staying at the cutting edge of technology to deliver
+            the best possible outcomes for our clients.
           </GridListItem>
         </GridList>
       </Container>

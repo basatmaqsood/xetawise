@@ -10,22 +10,22 @@ const Discover = () => {
         <p>
           We work closely with our clients to understand their{" "}
           <strong className="font-semibold text-neutral-950">needs</strong> and
-          goals, embedding ourselves in their every day operations to understand
-          what makes their business tick.
+          goals, embedding ourselves in their daily operations to gain a deeper
+          understanding of what drives their business forward.
         </p>
         <p>
-          Our team of private investigators shadow the company director’s for
-          several weeks while our account managers focus on going through their
-          trash. Our senior security experts then perform social engineering
-          hacks to gain access to their{" "}
-          <strong className="font-semibold text-neutral-950">business</strong>
-          accounts — handing that information over to our forensic accounting
-          team.
+          Our team conducts thorough research and analysis to uncover key
+          insights and opportunities, collaborating with stakeholders to
+          identify areas for improvement and growth. By leveraging a
+          multidisciplinary approach, we ensure a holistic understanding of
+          each client’s{" "}
+          <strong className="font-semibold text-neutral-950">business</strong>.
         </p>
         <p>
-          Once the full audit is complete, we report back with a comprehensive
-          <strong className="font-semibold text-neutral-950">plan</strong> and,
-          more importantly, a budget.
+          Once our assessment is complete, we deliver a comprehensive{" "}
+          <strong className="font-semibold text-neutral-950">plan</strong>{" "}
+          tailored to your unique objectives, accompanied by a detailed budget
+          to guide the next steps.
         </p>
       </div>
       <h3 className="mt-12 font-display text-base font-semibold text-neutral-950">
@@ -34,10 +34,10 @@ const Discover = () => {
       <TagList className="mt-4">
         <TagListItem>In-depth questionnaires</TagListItem>
         <TagListItem>Feasibility studies</TagListItem>
-        <TagListItem>Blood samples</TagListItem>
+        <TagListItem>Stakeholder interviews</TagListItem>
         <TagListItem>Employee surveys</TagListItem>
         <TagListItem>Proofs-of-concept</TagListItem>
-        <TagListItem>Forensic audit</TagListItem>
+        <TagListItem>Data-driven analysis</TagListItem>
       </TagList>
     </Section>
   );

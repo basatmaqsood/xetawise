@@ -15,8 +15,7 @@ const Services = () => {
         className="mt-24 sm:mt-32 lg:mt-40"
       >
         <p>
-          As long as those opportunities involve giving us money to re-purpose
-          old projects — we can come up with an endless number of those.
+        As long as those opportunities involve leveraging our expertise to deliver innovative solutions, we can craft an endless array of possibilities tailored to your needs.
         </p>
       </SectionIntro>
       <Container className="mt-16">

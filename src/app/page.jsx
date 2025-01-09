@@ -16,9 +16,7 @@ export default function Home() {
             Transforming Ideas into Digital Reality{" "}
           </h1>
           <p className="mt-6 text-xl text-neutral-600">
-            We are a development agency working at the intersection of business
-            and technology. It is a really busy intersection though — a lot of
-            our staff have been involved in hit and runs.
+          We are a development agency operating at the dynamic crossroads of business and technology. It’s a fast-paced environment where our team thrives, navigating challenges with agility and delivering impactful solutions.
           </p>
         </FadeIn>
       </Container>
