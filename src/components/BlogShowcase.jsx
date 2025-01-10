@@ -9,25 +9,25 @@ export default function BlogShowcase() {
       id: '1',
       title: 'The Rise of AI in Web Development',
       imageUrl: '/blog1.png',
-      liveUrl: ''
+      liveUrl: 'https://medium.com/@xetawise/the-rise-of-ai-in-web-development-how-to-stay-ahead-of-the-curve-626648de0385'
     },
     {
         id: '2',
         title: 'Chosing Right Tech Stack for your Web application',
         imageUrl: '/blog2.png',
-        liveUrl: ''
+        liveUrl: 'https://medium.com/@xetawise/choosing-the-right-tech-stack-for-your-web-application-a-comprehensive-guide-8c8daab84aab'
       },
     {
       id: '3',
       title: 'MicroServices Explained',
       imageUrl: '/blog3.png',
-      liveUrl: ''
+      liveUrl: 'https://medium.com/@xetawise/microservices-explained-what-business-owners-need-to-know-abec0ece60f4'
     },
     {
       id: '4',
       title: 'Why Good UX/UI Design Can Make or Break Your Digital Product',
       imageUrl: '/blog4.png',
-      liveUrl: ''
+      liveUrl: 'https://medium.com/@xetawise/be7e4cecd1cd'
     }
   ]
 
