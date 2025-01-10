@@ -9,25 +9,25 @@ export default function BlogShowcase() {
       id: '1',
       title: 'The Rise of AI in Web Development',
       imageUrl: '/blog1.png',
-      liveUrl: 'https://swiift-basat.vercel.app/'
+      liveUrl: ''
     },
     {
         id: '2',
         title: 'Chosing Right Tech Stack for your Web application',
         imageUrl: '/blog2.png',
-        liveUrl: 'https://www.wildandfree.us/'
+        liveUrl: ''
       },
     {
       id: '3',
       title: 'MicroServices Explained',
       imageUrl: '/blog3.png',
-      liveUrl: 'https://react-social-mediaapp.vercel.app/sign-in'
+      liveUrl: ''
     },
     {
       id: '4',
       title: 'Why Good UX/UI Design Can Make or Break Your Digital Product',
       imageUrl: '/blog4.png',
-      liveUrl: 'https://remotive-jobs.vercel.app/'
+      liveUrl: ''
     }
   ]
 
